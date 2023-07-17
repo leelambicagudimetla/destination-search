@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.user-card-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.profile-pic {
+  border-radius: 10px;
+  max-height: 50%;
+}
